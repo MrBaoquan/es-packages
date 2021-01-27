@@ -5,6 +5,7 @@
   "keywords": [
     "typescript"
   ],
+  
   "author": "MrBaoquan <mrma617@gmail.com>",
   "homepage": "",
   "license": "ISC",
@@ -40,5 +41,6 @@
     "rollup-plugin-terser": "^7.0.2",
     "ts-jest": "^26.4.4",
     "typescript": "^4.1.3"
-  }
+  },
+  "gitHead": "53a1ce34983a3ad8d7273177bf4b87d4fb7fe7e1"
 }
