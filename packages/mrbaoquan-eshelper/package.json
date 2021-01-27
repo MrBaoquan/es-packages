@@ -1,11 +1,10 @@
 {
   "name": "mrbaoquan-eshelper",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "es utils",
   "keywords": [
     "typescript"
   ],
-  
   "author": "MrBaoquan <mrma617@gmail.com>",
   "homepage": "",
   "license": "ISC",
