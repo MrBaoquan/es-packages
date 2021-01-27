@@ -10,8 +10,8 @@
   "license": "ISC",
   "type": "module",
   "main": "dist/esm/index.mjs",
+  "types": "dist/esm/index.d.ts",
   "directories": {
-    "lib": "src",
     "test": "__tests__"
   },
   "files": [
