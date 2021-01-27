@@ -1,6 +1,6 @@
 {
   "name": "mrbaoquan-eshelper",
-  "version": "0.1.1-alpha.0",
+  "version": "0.0.1-alpha.0",
   "description": "es utils",
   "keywords": [
     "typescript"
@@ -15,7 +15,8 @@
     "test": "__tests__"
   },
   "files": [
-    "dist"
+    "dist/**/*",
+    "!dist/**/*.map"
   ],
   "publishConfig": {
     "registry": "http://registry.npmjs.org/"
