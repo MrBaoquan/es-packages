@@ -2,3 +2,7 @@
 	path = packages/mrba-cchper
 	url = git@github.com:mrbaoquan/mrba-cchper.git
 	branch = main
+[submodule "packages/mrba-eshper"]
+	path = packages/mrba-eshper
+	url = https://github.com/MrBaoquan/mrba-eshper.git
+	branch = main
