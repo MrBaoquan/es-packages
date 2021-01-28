@@ -1,3 +1,4 @@
 [submodule "packages/mrba-cchper"]
 	path = packages/mrba-cchper
 	url = git@github.com:mrbaoquan/mrba-cchper.git
+	branch = main
