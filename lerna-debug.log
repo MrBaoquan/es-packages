@@ -1,0 +1,7 @@
+36 error Error: Command failed: git tag mrbaoquan-eshelper@0.1.0-alpha.0 -m mrbaoquan-eshelper@0.1.0-alpha.0
+36 error fatal: tag 'mrbaoquan-eshelper@0.1.0-alpha.0' already exists
+36 error
+36 error     at makeError (D:\cocos_pack\workspace\workspace\node_modules\execa\index.js:174:9)
+36 error     at D:\cocos_pack\workspace\workspace\node_modules\execa\index.js:278:16
+36 error     at processTicksAndRejections (internal/process/task_queues.js:94:5)
+36 error     at async Promise.all (index 0)

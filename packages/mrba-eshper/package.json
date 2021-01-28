@@ -1,5 +1,5 @@
 {
-  "name": "mrbaoquan-eshelper",
+  "name": "mrba-eshper",
   "version": "0.1.1",
   "description": "es utils",
   "keywords": [
@@ -7,7 +7,7 @@
   ],
   "author": "MrBaoquan <mrma617@gmail.com>",
   "homepage": "",
-  "license": "ISC",
+  "license": "MIT",
   "type": "module",
   "main": "dist/esm/index.mjs",
   "types": "dist/esm/index.d.ts",
@@ -41,5 +41,5 @@
     "ts-jest": "^26.4.4",
     "typescript": "^4.1.3"
   },
-  "gitHead": "53a1ce34983a3ad8d7273177bf4b87d4fb7fe7e1"
+  "gitHead": "fdc1d8e6abd495baec009ab4718e8c5d104780f5"
 }
